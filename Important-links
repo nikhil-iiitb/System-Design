@@ -1,0 +1,12 @@
+1. This is the System Design Link which is nice & informative
+  - https://github.com/donnemartin/system-design-primer
+  
+ 2. System Design by Narendra L is nice & informative (Youtube & Medium Link)
+    My thinking is the tutorial is good, but not as expected by interviewer as they interested as to why you are using a 
+    compnent rather than naming them.
+    Ex: API Gateway : know its functions or any particular name you might have used in your own project.
+  - https://medium.com/@narengowda 
+  - Youtube you can search the playlist of Narendra - For microservices architecture ( its about the name of the components)
+  
+ 3. This is the best link I came across till now regarding as to the need & points to consider for microservices.
+  - https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9
